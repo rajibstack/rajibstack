@@ -1,131 +1,33 @@
-# Project Name  
-A short one-line subtitle that describes what this project does.
+# Hi 👋, I'm [Your Name]
+
+### [Your Headline / e.g., Aspiring Full Stack Engineer]
+
+*Code • Learn • Create • Evolve*
+
+<p align="left">
+  <img src="https://demolab.com" alt="Typing SVG" />
+</p>
 
 ---
 
-## Table of Contents
+## 👨‍💻 About Me
 
-- [About the Project](#about-the-project)
-- [Project Overview](#project-overview)
-- [Key Features](#key-features)
-- [Tech Stack](#tech-stack)
-- [Dependencies](#dependencies)
-- [Installation️ & Setup](#installation--setup)
-- [Folder Structure](#folder-structure)
-- [Contributions](#contributions)
-- [How to Contribute](#how-to-contribute)
-- [License](#license)
-- [Contact](#contact)
+A concise section highlighting your role, current learning goals in JavaScript/React/Node.js, design interests, and your path toward professional engineering.
 
 ---
 
-## About the Project 
-A brief description of the project, its purpose, and what problem it solves.
+## 🛠️ Technology Stack
+
+Includes categorized badges for Frontend, Backend & Data, UI Libraries, Design Tools, and Tools & Cloud (HTML, CSS, Tailwind, JS, TS, React, Next.js, Node, MongoDB, Figma, Git, Vercel, etc.).
 
 ---
 
-## Project Overview  
-Summarize the project objectives, key metrics, and any relevant statistics.  
-You can also include a diagram or screenshot.
+## 📊 GitHub Activity
+
+Dynamic cards displaying your live GitHub stats, streak stats, and top programming languages using standard markdown image badges configured for your username.
 
 ---
 
-## Key Features  
-- Feature 1 — short explanation  
-- Feature 2 — short explanation  
-- Feature 3 — short explanation  
-- Authentication / Dashboard / API Integration (optional examples)
+## 🌐 Let's Connect
 
----
-
-## Tech Stack  
-**Frontend:** React.js · Tailwind CSS · TypeScript  
-**Backend:** Node.js · Express.js · MongoDB  
-**Tools:** Git · VS Code · Firebase · JWT
-
----
-
-## Dependencies  
-List required dependencies or major libraries:
-
-```json
-{
-  "react": "^18.x",
-  "express": "^4.x",
-  "mongoose": "^7.x",
-  "tailwindcss": "^3.x"
-}
-```
-
----
-
-## Installation️ & Setup
-1. Clone the repo and install dependencies:
-
-```bash
-git clone https://github.com/touhidcodes/Resume-Craft
-cd resume-craft
-npm install
-```
-
-2. Set up environment variables by creating a `.env` file in the root directory:
-
-```env
-DATABASE_URL=your_database_url
-JWT_SECRET=your_jwt_secret
-```
-
-3. Run the application:
-
-```bash
-npm run dev
-```
-
----
-
-## Folder Structure
-
-```plaintext
-your-project/
-│
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── utils/
-│   └── hooks/
-├── public/
-└── package.json
-```
-
----
-
-## Contributions (Optional)
-If this is a team project, mention contributors.
-
-| Name            | Role                | Contributions                            |  
-|-----------------|---------------------|------------------------------------------|  
-| Member-1        | Role                | Contributions                            |  
-| Member-2        | Role                | Contributions                            |  
-
----
-
-## How to Contribute (Optional)
-
-  - Fork the Project
-  - Create a branch (`git checkout -b feature/AmazingFeature`)
-  - Commit changes (`git commit -m 'Add some AmazingFeature'`)
-  - Push the branch (`git push origin feature/AmazingFeature`)
-  - Open a Pull Request
-
----
-
-## License (Optional)
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
----
-
-## Contact
-
-**Live URL:** [Live Site](https://yourdomain.com/)
-**Email:** [username](your-email@example.com)
-**Portfolio:** [Portfolio](https://yourportfolio.com)
+Badges and links pointing to your professional and social profiles like LinkedIn, Gmail, Facebook, Instagram, and X.
