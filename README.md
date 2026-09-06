@@ -33,7 +33,7 @@ Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** w
 ## 🌐 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hossain-rajib)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](https://www.fiverr.com/s/L3eAXk0)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](https://www.fiverr.com/hossain_rajib)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:rajibhossain751@gmail.com)
 
 ---
