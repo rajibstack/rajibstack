@@ -35,28 +35,6 @@ Feel free to reach out if you want to talk about **Web Development**, open-sourc
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
----
-
-
-## 🛠️ Tools & Platforms
-
-<p align="left">
-  <img src="https://skillicons.dev" alt="Tools and Platforms" />
-</p>
-
----
-
-## 📊 GitHub Stats & Contributions
-
-<p align="left">
-  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
-  <img src="https://herokuapp.com" alt="GitHub Streak" width="48%" />
-</p>
-
-### 🌐 Top Languages
-<p align="left">
-  <img src="https://vercel.app" alt="Top Languages" />
-</p>
 
 ---
 
