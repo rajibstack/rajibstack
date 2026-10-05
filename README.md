@@ -5,6 +5,7 @@
 ---
 
 ## 👨💻 About Me  
+
 I'm a passionate full-stack developer who enjoys building modern, high-performance web applications. I love working with **JavaScript**, **React**, and **Node.js**, and I'm always exploring new tools to improve my workflow. 
 - 🚀 I am currently exploring **NEXT.js** to build performance-optimized web apps.
 - 💻 I’m currently working on an **IT Agency Website** with interactive features.
@@ -12,6 +13,7 @@ I'm a passionate full-stack developer who enjoys building modern, high-performan
 Feel free to reach out if you want to talk about **Web Development**, open-source, or cool tech ideas!
 
 ---
+
 
 ## 🛠️ My Skils 
 
@@ -34,6 +36,7 @@ Feel free to reach out if you want to talk about **Web Development**, open-sourc
 
 ---
 
+
 ### 🧰 Tools & Platforms
 - ![Git](https://shields.io) **Git & GitHub**
 - ![VS Code](https://shields.io) **VS Code**
@@ -41,12 +44,14 @@ Feel free to reach out if you want to talk about **Web Development**, open-sourc
 
 ---
 
+
 ## 📊 GitHub Stats & Contributions
 
 <p align="left">
   <img src="https://vercel.app[আপনার-GitHub-ইউজারনেম]&show_icons=true&theme=radial" alt="GitHub Stats" width="48%" />
   <img src="https://herokuapp.com[আপনার-GitHub-ইউজারনেম]&theme=radial" alt="GitHub Streak" width="48%" />
 </p>
+
 
 ### 🌐 Top Languages
 ![](https://vercel.app[আপনার-GitHub-ইউজারনেম]&layout=compact&theme=radial)
