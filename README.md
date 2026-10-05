@@ -35,6 +35,30 @@ Feel free to reach out if you want to talk about **Web Development**, open-sourc
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
+---
+
+
+## 🛠️ Tools & Platforms
+* **Editor:** `Visual Studio Code` (VS Code)
+* **Version Control:** `Git` & `GitHub`
+* **Cloud & Backend:** `Firebase`
+
+---
+
+## 📊 GitHub Stats & Contributions
+```text
+🚀 Contributions: Active & Growing
+📦 Pinned Projects: Fully Maintained
+⚡ Current Focus: AI-Driven Web Engineering
+```
+
+---
+
+## 🌐 Top Languages
+- 🟩 **JavaScript (ES6+)** — Core Language
+- 🟦 **React.js / Next.js** — Frontend Stack
+- 🧡 **HTML5 & CSS3 / Tailwind** — Layout & Styling
+
 
 ---
 
