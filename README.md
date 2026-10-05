@@ -38,10 +38,11 @@ Feel free to reach out if you want to talk about **Web Development**, open-sourc
 ---
 
 
-### 🧰 Tools & Platforms
-- ![Git](https://shields.io) **Git & GitHub**
-- ![VS Code](https://shields.io) **VS Code**
-- ![Firebase](https://shields.io) **Firebase**
+## 🛠️ Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev" alt="Tools and Platforms" />
+</p>
 
 ---
 
@@ -49,13 +50,14 @@ Feel free to reach out if you want to talk about **Web Development**, open-sourc
 ## 📊 GitHub Stats & Contributions
 
 <p align="left">
-  <img src="https://vercel.app[আপনার-GitHub-ইউজারনেম]&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://herokuapp.com[আপনার-GitHub-ইউজারনেম]&theme=tokyonight" alt="GitHub Streak" width="48%" />
+  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
+  <img src="https://herokuapp.com" alt="GitHub Streak" width="48%" />
 </p>
 
-
 ### 🌐 Top Languages
-![](https://vercel.app[আপনার-GitHub-ইউজারনেম]&layout=compact&theme=radial)
+<p align="left">
+  <img src="https://vercel.app" alt="Top Languages" />
+</p>
 
 ---
 
