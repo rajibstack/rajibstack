@@ -49,8 +49,8 @@ Feel free to reach out if you want to talk about **Web Development**, open-sourc
 ## 📊 GitHub Stats & Contributions
 
 <p align="left">
-  <img src="https://vercel.app[আপনার-GitHub-ইউজারনেম]&show_icons=true&theme=radial" alt="GitHub Stats" width="48%" />
-  <img src="https://herokuapp.com[আপনার-GitHub-ইউজারনেম]&theme=radial" alt="GitHub Streak" width="48%" />
+  <img src="https://vercel.app[আপনার-GitHub-ইউজারনেম]&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://herokuapp.com[আপনার-GitHub-ইউজারনেম]&theme=tokyonight" alt="GitHub Streak" width="48%" />
 </p>
 
 
