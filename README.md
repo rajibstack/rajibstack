@@ -13,7 +13,7 @@ Feel free to reach out if you want to talk about **Web Development**, open-sourc
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ My Skils 
 
 ### **Frontend**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
@@ -34,12 +34,27 @@ Feel free to reach out if you want to talk about **Web Development**, open-sourc
 
 ---
 
+### 🧰 Tools & Platforms
+- ![Git](https://shields.io) **Git & GitHub**
+- ![VS Code](https://shields.io) **VS Code**
+- ![Firebase](https://shields.io) **Firebase**
+
+---
+
+## 📊 GitHub Stats & Contributions
+
+<p align="left">
+  <img src="https://vercel.app[আপনার-GitHub-ইউজারনেম]&show_icons=true&theme=radial" alt="GitHub Stats" width="48%" />
+  <img src="https://herokuapp.com[আপনার-GitHub-ইউজারনেম]&theme=radial" alt="GitHub Streak" width="48%" />
+</p>
+
+### 🌐 Top Languages
+![](https://vercel.app[আপনার-GitHub-ইউজারনেম]&layout=compact&theme=radial)
+
+---
+
 ## 🌐 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hossain-rajib)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](https://www.fiverr.com/hossain_rajib)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:rajibhossain751@gmail.com)
-
----
-
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
