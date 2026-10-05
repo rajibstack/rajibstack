@@ -45,11 +45,14 @@ Feel free to reach out if you want to talk about **Web Development**, open-sourc
 
 ---
 
-## 📊 GitHub Stats & Contributions
-```text
-🚀 Contributions: Active & Growing
-📦 Pinned Projects: Fully Maintained
-⚡ Current Focus: AI-Driven Web Engineering
+## 📊 GitHub Stats
+<p align="left">
+  <img src="https://vercel.app" width="100%" alt="GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://vercel.app" width="60%" alt="Most Used Languages" />
+</p>
 ```
 
 ---
