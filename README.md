@@ -47,6 +47,7 @@ Feel free to reach out if you want to talk about **Web Development**, open-sourc
 ---
 
 ## 📊 GitHub Stats
+
 <p align="left">
   <img src="https://vercel.app" width="100%" alt="GitHub Stats" />
 </p>
@@ -54,7 +55,6 @@ Feel free to reach out if you want to talk about **Web Development**, open-sourc
 <p align="left">
   <img src="https://vercel.app" width="60%" alt="Most Used Languages" />
 </p>
-```
 
 ---
 
