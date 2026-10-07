@@ -46,14 +46,16 @@ Feel free to reach out if you want to talk about **Web Development**, open-sourc
 
 ---
 
+<!-- 📊 GitHub Statistics সেকশন -->
 ## 📊 GitHub Statistics
 
 <p align="left">
-  <img src="https://vercel.com/rajib-stack" alt="Rajib's GitHub Stats" width="100%" />
+  <img src="https://vercel.app" alt="Rajib's GitHub Stats" width="100%" />
 </p>
 
 ---
 
+<!-- 🔥 GitHub Streak সেকশন -->
 ## 🔥 GitHub Streak
 
 <p align="left">
@@ -62,18 +64,12 @@ Feel free to reach out if you want to talk about **Web Development**, open-sourc
 
 ---
 
+<!-- 💻 Most Used Languages সেকশন -->
 ## 💻 Most Used Languages
 
 <p align="left">
-  <img src="https://vercel.app/rajib-stack" alt="Most Used Languages" width="60%" />
+  <img src="https://vercel.app" alt="Most Used Languages" width="60%" />
 </p>
-
----
-
-## 🌐 Top Languages
-- 🟩 **JavaScript (ES6+)** — Core Language
-- 🟦 **React.js / Next.js** — Frontend Stack
-- 🧡 **HTML5 & CSS3 / Tailwind** — Layout & Styling
 
 
 ---
