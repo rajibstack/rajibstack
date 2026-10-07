@@ -46,14 +46,26 @@ Feel free to reach out if you want to talk about **Web Development**, open-sourc
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="left">
-  <img src="https://vercel.app" width="100%" alt="GitHub Stats" />
+  <img src="https://vercel.com/rajib-stack" alt="Rajib's GitHub Stats" width="100%" />
 </p>
 
+---
+
+## 🔥 GitHub Streak
+
 <p align="left">
-  <img src="https://vercel.app" width="60%" alt="Most Used Languages" />
+  <img src="https://herokuapp.com" alt="Rajib's GitHub Streak" width="100%" />
+</p>
+
+---
+
+## 💻 Most Used Languages
+
+<p align="left">
+  <img src="https://vercel.app/rajib-stack" alt="Most Used Languages" width="60%" />
 </p>
 
 ---
