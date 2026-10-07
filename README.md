@@ -1,7 +1,7 @@
 <img src="./hossain rajib.png" alt="hossain rajib image">
 <br>
 
-Hi 👋, I'm Hossain Rajib, a full-stack developer. I build things with JavaScript, React, and Node.js.
+## Hi 👋, I'm Hossain Rajib, a full-stack developer. I build things with JavaScript, React, and Node.js.
 
 ---
 
@@ -11,6 +11,7 @@ I'm a passionate full-stack developer who enjoys building modern, high-performan
 - 🚀 I am currently exploring **NEXT.js** to build performance-optimized web apps.
 - 💻 I’m currently working on an **IT Agency Website** with interactive features.
 - 📚 Learning advanced state management and backend integration.
+
 Feel free to reach out if you want to talk about **Web Development**, open-source, or cool tech ideas!
 
 ---
